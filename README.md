@@ -39,7 +39,7 @@
 ## ✉️  Contact me 
 
 [<img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mail.sandro.baccega@gmail.com) 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([LinkedIn](https://www.linkedin.com/in/sandro-baccega))
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandro-baccega)
 
 ## 📊  Stats 
 
