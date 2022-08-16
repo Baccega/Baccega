@@ -44,6 +44,8 @@
 
 ## 📊  Stats 
 
+<p style="display: flex">
+
 ![Baccega's github stats](https://github-readme-stats.vercel.app/api?username=Baccega&show_icons=true&theme=gotham)
 
-[![Baccega's Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Baccega&layout=compact&theme=gotham)](https://github.com/Baccega/github-readme-stats)
+[![Baccega's Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Baccega&layout=compact&theme=gotham)](https://github.com/Baccega/github-readme-stats)</p>
