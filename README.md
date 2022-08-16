@@ -4,7 +4,7 @@
 
 🔭  I’m currently working on **Web development** and studying for a **Master's Degree in CS** at [Ca' Foscari University of Venice](https://www.unive.it/).
 
-🌱  I’m currently learning **Typescript**.
+🌱  I’m currently learning **Machine learning**.
 
 ⚡  Fun fact: I like dogs. 🐕
 
@@ -27,6 +27,7 @@
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Gitlab ci" src="https://img.shields.io/badge/Gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -38,9 +39,11 @@
 
 ## ✉️  Contact me 
 
-[<img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mail.sandro.baccega@gmail.com) 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandro-baccega)
+[<img  height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mail.sandro.baccega@gmail.com) 
+[<img  height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandro-baccega)
 
 ## 📊  Stats 
 
 ![Baccega's github stats](https://github-readme-stats.vercel.app/api?username=Baccega&show_icons=true&theme=gotham)
+
+[![Baccega's Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Baccega&layout=compact&theme=gotham)](https://github.com/Baccega/github-readme-stats)
