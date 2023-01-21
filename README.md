@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/> Hey 
 
-🇮🇹 I'm Sandro Baccega, a Fullstack developer from Padova, Italy.
+🇮🇹 I'm Sandro Baccega, a Fullstack developer from Italy, that is now based in Graz, Austria 🇦🇹.
 
 🔭  I’m currently working on **Web development** and studying for a **Master's Degree in CS** at [Ca' Foscari University of Venice](https://www.unive.it/).
 
