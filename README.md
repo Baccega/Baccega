@@ -60,6 +60,7 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=openCV&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-ee1d24?style=flat-square&logo=Java&logoColor=" />
 </p>
 
 ## ✉️  Contact me 
