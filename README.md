@@ -2,7 +2,7 @@
 
 🇮🇹 I'm Sandro Baccega, a Software Engineer from Italy, that is now based in Graz, Austria 🇦🇹.
 
-🔭 I’m currently working on **Web development** (Mainly `React.js` with `Next.js`)
+🔭 I’m currently focused on web development, primarily using React.js with Next.js. I have 4 years of professional experience in this field.
 
 🎓 I have a **Master's Degree in CS** at [Ca' Foscari University of Venice](https://www.unive.it/).
 
@@ -24,13 +24,13 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="shadcnui" src="https://img.shields.io/badge/-shadcn/ui-black?style=flat-square&logo=shadcnui&logoColor=white" />
   <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat-square&logo=mui&logoColor=white" />
   <img alt="Reactquery" src="https://img.shields.io/badge/-React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> 
   <img alt="trpc" src="https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" /> 
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> 
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -73,6 +73,6 @@
 
 <p style="display: flex">
 
-![Baccega's github stats](https://github-readme-stats.vercel.app/api?username=Baccega&show_icons=true&theme=gotham)
+<!-- ![Baccega's github stats](https://github-readme-stats.vercel.app/api?username=Baccega&show_icons=true&theme=gotham) -->
 
 [![Baccega's Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Baccega&layout=compact&theme=gotham)](https://github.com/Baccega/github-readme-stats)</p>
