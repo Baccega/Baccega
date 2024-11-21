@@ -2,7 +2,7 @@
 
 🇮🇹 I'm Sandro Baccega, a Software Engineer from Italy, that is now based in Graz, Austria 🇦🇹.
 
-🔭 I’m currently focused on web development, primarily using **React.js**, with over **4 years** of professional experience in this field.
+🔭 I’m currently focused on web development, primarily with **React.js** and **Typescript**, with over **4 years** of professional experience in this field.
 
 🎓 I have a **Master's Degree in Computer Science** from [Ca' Foscari University of Venice](https://www.unive.it/).
 
