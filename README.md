@@ -2,20 +2,20 @@
 
 🇮🇹 I'm Sandro Baccega, a Software Engineer from Italy, that is now based in Graz, Austria 🇦🇹.
 
-🔭 I’m currently focused on web development, primarily using `React.js` with `Next.js`. I have **4 years** of professional experience in this field.
+🔭 I’m currently focused on web development, primarily using **React.js**, with over **4 years** of professional experience in this field.
 
-🎓 I have a **Master's Degree in CS** at [Ca' Foscari University of Venice](https://www.unive.it/).
+🎓 I have a **Master's Degree in Computer Science** from [Ca' Foscari University of Venice](https://www.unive.it/).
 
 📚 Check out my portfolio [here](https://baccegasandro.dev)!
 
-⚡  Fun fact: I like dogs. 🐕
+⚡  Fun fact: I like dogs 🐕 and video games 🎮.
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 
-## 🔧  Things i'm familiar with  
+## 🔧  Technologies I'm familiar with  
 
 
 ### Web Development
