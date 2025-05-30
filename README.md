@@ -1,22 +1,23 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/> Hey 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/> Hey
 
 🇮🇹 I'm Sandro Baccega, a Software Engineer from Italy, that is now based in Graz, Austria 🇦🇹.
 
+🎓 I have a **Master's Degree in Computer Science** from [Ca' Foscari University of Venice](https://www.unive.it/).
+
 🔭 I’m currently focused on web development, primarily with **React.js** and **Typescript**, with over **4 years** of professional experience in this field.
 
-🎓 I have a **Master's Degree in Computer Science** from [Ca' Foscari University of Venice](https://www.unive.it/).
+🌱 I love tinkering with my [homelab](https://github.com/Baccega/homelab) and am currently learning **Nix** ❄️
 
 📚 Check out my portfolio [here](https://baccegasandro.dev)!
 
-⚡  Fun fact: I like dogs 🐕 and video games 🎮.
+⚡ Fun fact: I like dogs 🐕 and video games 🎮.
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 
-## 🔧  Technologies I'm familiar with  
-
+## 🔧 Technologies I'm familiar with
 
 ### Web Development
 
@@ -56,6 +57,7 @@
 ### Other
 
 <p>
+  <img alt="Nix" src="https://img.shields.io/badge/-Nix-5277c3?style=flat-square&logo=nixos&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=openCV&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
@@ -63,13 +65,13 @@
   <img alt="java" src="https://img.shields.io/badge/-Java-ee1d24?style=flat-square&logo=Java&logoColor=" />
 </p>
 
-## ✉️  Contact me 
+## ✉️ Contact me
 
-[<img  height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mail.sandro.baccega@gmail.com) 
+[<img  height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mail.sandro.baccega@gmail.com)
 [<img  height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandro-baccega)
 [<img  height="30" src="https://img.shields.io/badge/x-black.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://twitter.com/Sandro_Bac)
 
-## 📊  Stats 
+## 📊 Stats
 
 <p style="display: flex">
 
