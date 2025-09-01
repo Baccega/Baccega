@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/> Hey
+# <img src="https://chax.at/team/pixelavatar/Walk_Sandro.gif" width="36px" height="47px"/> Hey
 
 🇮🇹 I'm Sandro Baccega, a Software Engineer from Italy, that is now based in Graz, Austria 🇦🇹.
 
